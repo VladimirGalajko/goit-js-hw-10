@@ -1,0 +1,6 @@
+GET https://api.thecatapi.com/v1/images/search?breed_ids=bamb
+header: "x-api-key" : "live_VnJJDFy8jUlv8V7N1Imc5BYtLuyHG0lMUT4496L0Lrxi4mw0C1j4fMnIbceMQjBB"
+
+//https://api.thecatapi.com/v1/images/search?breed_ids=abys
+
+
